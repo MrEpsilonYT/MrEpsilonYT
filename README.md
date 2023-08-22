@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MrEpsilonYT
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate with google
-- 📫 How to reach me = email: epsyygot13@gmail.com
+- 📫 How to reach me = email: siddharthnirmale@gmail.com 
 - =
 
 <!---
