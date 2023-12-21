@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrEpsilonYT
+- 👋 Hi, I’m Siddharth Nirmale
 - 👀 I’m interested in Making Lives Easier
 - 🌱 I’m currently learning Editing and Programming Languages
 - 📫 How to reach me = email: siddharthnirmale@gmail.com 
